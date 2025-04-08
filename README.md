@@ -5,10 +5,10 @@ Il progetto consiste nella Prototipazione Virtuale del sistema di attrezzature a
   <p><em>CIMA Reactions and Empirical Rate Laws</em></p>
 </div>
 La soluzione proposta è stata:
-- modellata in Catia V5
-- sottoposta ad una analisi FEM
-- testata per il raggiungimento di configurazioni critiche tramite simulazione cinematica 
-- sottoposta ad analisi ergonomica in Jack
+  - modellata in Catia V5
+  - sottoposta ad una analisi FEM
+  - testata per il raggiungimento di configurazioni critiche tramite simulazione cinematica 
+  - sottoposta ad analisi ergonomica in Jack
 
 Il report completo è disponibile [qui](./PV2324_PROGETTO_PERFETTA-ROMANO.pdf).
 
