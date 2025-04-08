@@ -42,14 +42,14 @@ La scala è stata realizzata in Alluminio e, tramite l'analisi FEM, sono state v
 ### Manipolatore
 Il Manipolatore è stato realizzato in Acciaio e, tramite l'analisi FEM, sono state verificate le specifiche richieste e sono state ricavate le infomazioni necessarie per modellare il cuscinetto assiale tra Supporto Mobile e Manipolatore.
 <div align="center">
-  <img src="./media/Fem_Man.jpg" alt="Analisi FEM - Manipolatore" width="50%">
+  <img src="./media/Fem_Manip.jpg" alt="Analisi FEM - Manipolatore" width="50%">
   <p><em>Analisi FEM - Manipolatore</em></p>
 </div>
 
 ### Supporto Mobile con Manipolatore 
 Il Supporto Mobile con Manipolatore è stato realizzato in Acciaio e, tramite l'analisi FEM, le specifiche richieste risultano soddisfatte.
 <div align="center">
-  <img src="./media/Fem_Sup.jpg" alt="Analisi FEM - Supporto Mobile con Manipolatore " width="50%">
+  <img src="./media/Fem_supp.jpg" alt="Analisi FEM - Supporto Mobile con Manipolatore " width="50%">
   <p><em>Analisi FEM - Supporto Mobile con Manipolatore </em></p>
 </div>
 
