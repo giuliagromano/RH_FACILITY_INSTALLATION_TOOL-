@@ -10,7 +10,7 @@ La soluzione proposta è stata:
 - testata per il raggiungimento di configurazioni critiche tramite simulazione cinematica 
 - sottoposta ad analisi ergonomica in Jack
 
-Il report completo è disponibile [qui](./PV2324_PROGETTO_PERFETTA-ROMANO.pptx).
+Il report completo è disponibile [qui](./PV2324_PROGETTO_PERFETTA-ROMANO.pdf).
 
 ## Idea
 Per consentire l’accesso all’ambiente dei mockup, l’operatore può avvalersi di una passerella a cui è collegata una scala a castello. Mentre per manovrare in sicurezza i moduli IFW ed OFW, è stato realizzato un sistema costituito da un manipolatore allungabile con supporto mobile similare ad un manipolatore per vetri. 
